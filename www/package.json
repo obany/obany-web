@@ -1,6 +1,6 @@
 {
 	"name": "obany-web",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"devDependencies": {
 		"@types/jasmine": "^2.6.2",
 		"archiver": "^2.1.0",
